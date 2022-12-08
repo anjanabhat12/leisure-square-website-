@@ -1,5 +1,5 @@
 # leisure-square-website-
-install xampp application
-start apache server
-start mysql
-open the published website
+1.install xampp application
+2.start apache server
+3.start mysql
+4.open the published website
